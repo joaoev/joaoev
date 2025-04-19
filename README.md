@@ -2,7 +2,9 @@
 
 <h3 align="left">✨  Sobre mim</h3>
 
-<p align="left">-  🎓 Cursando Engenharia de Software - UFC Campus Quixadá<br>- 📚 Atualmente estou desenvolvendo projetos pessoais para portifólio<br>- 📖 No momento estudando sobre Microsserviços</p>
+- 🎓 Cursando Engenharia de Software - UFC Campus Quixadá
+- 📚 Atualmente estou desenvolvendo projetos pessoais para portifólio
+- 📖 No momento estudando sobre Microsserviços
 
 ###
 
