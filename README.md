@@ -1,7 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o João Evangelista - Bem-vindo(a) ao meu Github!</h1>
 
-###
-
 <h2 align="left">✨  Sobre mim</h2>
 
 <p align="left">-  🎓 Cursando Engenharia de Software - UFC Campus Quixadá<br>- 📚 Atualmente estou desenvolvendo projetos pessoais para portifólio<br>- 📖 No momento estudando sobre Microsserviços</p>
