@@ -5,14 +5,14 @@
 
 <h3 align="left">🛸  Sobre mim</h3>
 
-<table align="center" style="width: 100%; border-collapse: collapse; border: none;">
+<table align="center" style="width: 100%;">
   <tr>
-    <td align="left" style="width: 60%; padding: 0; border: none;">
+    <td align="left" style="width: 60%;">
       <p >
         Atualmente estou cursando Engenharia de Software na UFC Campus Quixadá e desenvolvendo projetos pessoais para expandir meu portfólio. Sempre busco aprender novas tecnologias e aprimorar minhas habilidades.
       </p>
     </td>
-    <td align="center" style="width: 40%; vertical-align: middle; border: none;">
+    <td align="center" style="width: 40%;">
       <img src="./.github/gif.gif" width="200px" alt="gif image" />
     </td>
   </tr>
