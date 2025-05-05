@@ -13,7 +13,7 @@
       </p>
     </td>
     <td align="center" style="width: 40%;">
-      <img src="./.github/gif.gif" width="200px" alt="gif image" />
+      <img src="./.github/gif.gif" width="100px" alt="gif image" />
     </td>
   </tr>
 </table>
