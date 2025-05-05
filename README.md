@@ -109,13 +109,6 @@
 
 ###
 
-<h3 align="center">Visitas</h3>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/joaoev/count.svg?"  />
-</div>
-
-###
-
 <h3 align="left">📫 Contato</h3>
 
 ###
