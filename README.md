@@ -1,13 +1,22 @@
 <h1 align="center">Olá 👋, eu sou o João Evangelista - Bem-vindo(a) ao meu Github!</h1>
 
-<h3 align="center"><em><code>Desenvolvedor Full Stack</code></em></h3>
+<h3 align="center"><code>Desenvolvedor Full Stack</code></h3>
 
 
-<h3 align="left">✨  Sobre mim</h3>
+<h3 align="left">🛸  Sobre mim</h3>
 
-- 🎓 Cursando Engenharia de Software - UFC Campus Quixadá
-- 📚 Atualmente estou desenvolvendo projetos pessoais para portifólio
-- 📖 No momento estudando sobre Microsserviços
+<table align="center" style="width: 100%; border-collapse: collapse; border: none;">
+  <tr>
+    <td align="left" style="width: 60%; padding: 0; border: none;">
+      <p >
+        Atualmente estou cursando Engenharia de Software na UFC Campus Quixadá e desenvolvendo projetos pessoais para expandir meu portfólio. Sempre busco aprender novas tecnologias e aprimorar minhas habilidades.
+      </p>
+    </td>
+    <td align="center" style="width: 40%; vertical-align: middle; border: none;">
+      <img src="./.github/gif.gif" width="200px" alt="gif image" />
+    </td>
+  </tr>
+</table>
 
 ###
 
@@ -107,7 +116,7 @@
 
 ###
 
-<h3 align="left">💌 Contato</h3>
+<h3 align="left">📫 Contato</h3>
 
 ###
 
