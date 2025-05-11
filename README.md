@@ -1,15 +1,16 @@
-<h1 align="center">Olá 👋, eu sou o João Evangelista - Bem-vindo(a) ao meu Github!</h1>
+<h1 align="center"><samp>Olá 👋, eu sou o João Evangelista!</samp></h1>
 
-<h3 align="center"><code>Desenvolvedor Full Stack</code></h3>
+<h3 align="center"><samp>Desenvolvedor Full Stack</samp></h3>
 
-
-<h3 align="left">🛸  Sobre mim</h3>
+## <samp>🛸  Sobre mim</samp>
 
 <table align="center" style="width: 100%;">
   <tr>
     <td align="left" style="width: 60%;">
-      <p >
+      <p>
+        <samp>
         Atualmente estou cursando Engenharia de Software na UFC Campus Quixadá e desenvolvendo projetos pessoais para expandir meu portfólio. Sempre busco aprender novas tecnologias e aprimorar minhas habilidades.
+      </samp>
       </p>
     </td>
     <td align="center" style="width: 40%;">
@@ -20,11 +21,11 @@
 
 ###
 
-<h3 align="center">Minhas Skills</h3>
+<h2 align="center"><samp>Minhas Skills</samp></h2>
 
 ###
 
-<p align="left">🛠 <em>Back-end</em></p>
+<p align="left">🛠 <samp><b>Back-end</b></samp></p>
 
 ###
 
@@ -42,7 +43,7 @@
 
 ###
 
-<p align="left">🎨 <em>Front-end</em></p>
+<p align="left">🎨 <samp><b>Front-end</b></samp></p>
 
 ###
 
@@ -62,7 +63,7 @@
 
 ###
 
-<p align="left">💾 <em>Databases</em></p>
+<p align="left">💾 <samp><b>Databases</b></samp></p>
 
 ###
 
@@ -78,7 +79,7 @@
 
 ###
 
-<p align="left">☁️ <em>Infraestrutura</em></p>
+<p align="left">☁️ <samp><b>Infraestrutura</b></samp></p>
 
 ###
 
@@ -98,8 +99,7 @@
 
 ###
 
-<h3 align="left">📊 Github Stats</h3>
-
+## 📊 <samp>Github Stats</samp>
 ###
 
 <div align="center">
@@ -109,7 +109,7 @@
 
 ###
 
-<h3 align="left">📫 Contato</h3>
+## 📫 <samp>Contato</samp>
 
 ###
 
