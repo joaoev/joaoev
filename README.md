@@ -13,17 +13,16 @@ _Engenheiro de Software | Desenvolvedor Full Stack_
 
 ## 🚀 Tech Stack & Ferramentas
 
-  <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo"  />
-  <img src="https://skillicons.dev/icons?i=ts" height="32" alt="typescript logo"  />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="nodejs logo"  />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="32" alt="nestjs logo"  />
-  <img src="https://skillicons.dev/icons?i=prisma" height="32" alt="prisma logo"  />
-  <img src="https://skillicons.dev/icons?i=react" height="32" alt="react logo"  />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="tailwindcss logo"  />
-  <img src="https://skillicons.dev/icons?i=figma" height="32" alt="figma logo"  />
-  <img src="https://skillicons.dev/icons?i=postgres" height="32" alt="postgresql logo"  />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="32" alt="mongodb logo"  />
-  <img src="https://skillicons.dev/icons?i=linux" height="32" alt="linux logo"  />
-  <img src="https://skillicons.dev/icons?i=docker" height="32" alt="docker logo"  />
-  <img src="https://skillicons.dev/icons?i=aws" height="32" alt="amazonwebservices logo"  />
- 
+<img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo"/><img src="https://skillicons.dev/icons?i=ts" height="32" alt="typescript logo"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="nodejs logo"  />
+<img src="https://skillicons.dev/icons?i=nestjs" height="32" alt="nestjs logo"  />
+<img src="https://skillicons.dev/icons?i=prisma" height="32" alt="prisma logo"  />
+<img src="https://skillicons.dev/icons?i=react" height="32" alt="react logo"  />
+<img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="tailwindcss logo"  />
+<img src="https://skillicons.dev/icons?i=figma" height="32" alt="figma logo"  />
+<img src="https://skillicons.dev/icons?i=postgres" height="32" alt="postgresql logo"  />
+<img src="https://skillicons.dev/icons?i=mongodb" height="32" alt="mongodb logo"  />
+<img src="https://skillicons.dev/icons?i=linux" height="32" alt="linux logo"  />
+<img src="https://skillicons.dev/icons?i=docker" height="32" alt="docker logo"  />
+<img src="https://skillicons.dev/icons?i=aws" height="32" alt="amazonwebservices logo"  />
+
