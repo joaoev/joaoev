@@ -13,6 +13,7 @@ _Engenheiro de Software | Desenvolvedor Full Stack_
 
 ## 🚀 Tech Stack & Ferramentas
 
+![python logo](https://skillicons.dev/icons?i=py)
 ![javascript logo](https://skillicons.dev/icons?i=js)
 ![typescript logo](https://skillicons.dev/icons?i=ts)
 ![nodejs logo](https://skillicons.dev/icons?i=nodejs)
@@ -20,10 +21,8 @@ _Engenheiro de Software | Desenvolvedor Full Stack_
 ![prisma logo](https://skillicons.dev/icons?i=prisma)
 ![react logo](https://skillicons.dev/icons?i=react)
 ![tailwindcss logo](https://skillicons.dev/icons?i=tailwind)
-![figma logo](https://skillicons.dev/icons?i=figma)
 ![postgresql logo](https://skillicons.dev/icons?i=postgres)
 ![mongodb logo](https://skillicons.dev/icons?i=mongodb)
-![linux logo](https://skillicons.dev/icons?i=linux)
 ![docker logo](https://skillicons.dev/icons?i=docker)
 ![amazonwebservices logo](https://skillicons.dev/icons?i=aws)
 
